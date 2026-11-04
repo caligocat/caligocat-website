@@ -79,3 +79,9 @@ a:hover {
 footer {
   text-align: center;
 }
+
+@media only screen and (max-width: 768px) {
+    .container {
+        padding-inline: 15px;
+    }
+}
